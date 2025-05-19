@@ -1,5 +1,5 @@
 header{
-	background-color: gray;
+	background-color: #f8f4f4;
 }
 
 a{
@@ -58,5 +58,6 @@ section{
 	background-color: yellow;
 	top: 50px;
 	left: 100px;
+	translate: transform;
 	z-index: 3;
 }
