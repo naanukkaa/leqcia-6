@@ -25,3 +25,33 @@ img{
 	width: 90%;
 	margin: 0 auto;
 }
+
+section{
+	margin-top: 80px;
+	padding: 40px 0;
+	height: 2000px;
+}
+
+.parent{
+	width: 300px;
+	height: 300px;
+	background-color: coral;
+	position: relative;
+}
+
+.child{
+	width: 100px;
+	height: 100px;
+}
+
+.child-1{
+	background-color: blue;
+}
+
+.child-2{
+	background-color: darkred;
+}
+
+.child-3{
+	background-color: yellow;
+}
