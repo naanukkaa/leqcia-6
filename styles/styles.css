@@ -5,3 +5,22 @@ header{
 a{
 	color: white;
 }
+
+li{
+	display: inline-block;
+	margin-left: 40px;
+}
+
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+img{
+	vertical-align: middle;
+}
+
+.container{
+	max-width: 1100px;
+	margin: 0%auto;
+}
