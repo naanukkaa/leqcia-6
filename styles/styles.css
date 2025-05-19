@@ -37,21 +37,26 @@ section{
 	height: 300px;
 	background-color: coral;
 	position: relative;
+	z-index: 2;
 }
 
 .child{
 	width: 100px;
 	height: 100px;
+	position: absolute;
 }
 
-.child-1{
+/*.child-1{
 	background-color: blue;
-}
+}*/
 
-.child-2{
+/*.child-2{
 	background-color: darkred;
-}
+}*/
 
 .child-3{
 	background-color: yellow;
+	top: 50px;
+	left: 100px;
+	z-index: 3;
 }
